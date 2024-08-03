@@ -1,0 +1,30 @@
+.admin-dashboard {
+    padding: 20px;
+  }
+  
+  .admin-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .admin-product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .admin-product button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .admin-product button:hover {
+    background-color: #c82333;
+  }
+  

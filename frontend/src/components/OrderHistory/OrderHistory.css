@@ -1,0 +1,14 @@
+.order-history {
+    padding: 20px;
+  }
+  
+  .order-history ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .order-history li {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
